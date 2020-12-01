@@ -1,0 +1,48 @@
+body {
+  background-color: lightgrey;
+}
+.aop-logo {
+  width: 200px;
+  justify-content: center;
+}
+
+.aop-titre-forma {
+  background-color: #800000;
+  color: white;
+  border: 1px solid white;
+  font-size: 25px;
+}
+
+.aop-footer {
+  background-color: gray;
+  text-align: center;
+  color: white;
+}
+
+.aop-text {
+  text-align: justify;
+  border: 1px solid white;
+  margin: 5px;
+}
+.aop-card {
+  background-color: #800000;
+  color: lightgray;
+  text-align: center;
+}
+
+.aop-bnt-card {
+  background-color: lightgray;
+  color: black;
+  justify-content: center;
+}
+
+.aop-btn-inscip {
+  background-color: #800000;
+  border: 1px solid white;
+}
+
+.aop-bnt-formul {
+  background-color: gray;
+  color: white;
+  justify-content: center;
+}
